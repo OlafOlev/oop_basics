@@ -1,4 +1,4 @@
-from praks2.Kasutajad2 import Kasutajad
+from praks2.ylesanne7.kasutajad2 import Kasutajad
 kasutaja1 = Kasutajad("Janre", "Liiv")
 kasutaja1.maara_kasutajanimi("Janre.Liiv")
 kasutaja1.maara_parool("1111")

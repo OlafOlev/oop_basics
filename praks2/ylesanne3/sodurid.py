@@ -1,4 +1,4 @@
-from praks2.sodur import Sodur
+from praks2.ylesanne3.sodur import Sodur
 from random import randint
 
 sodur1 = Sodur()

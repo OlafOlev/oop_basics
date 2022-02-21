@@ -13,7 +13,7 @@ class Opetaja:
         for i in opilane:
             i.opib(info)
 class Opilane:
-    """Opilane klass lisab voi eemaldab teemasi opilaste teemistes."""
+    """Opilane klass lisab voi eemaldab teemasi opilaste teemistes. """
     def __init__(self):
         self.teadmised = []
     def opib(self, info):
